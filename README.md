@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeoPass Extension Download Page
 
 A simple, modern download page for distributing the NeoPass browser extension to college lab computers.
@@ -97,3 +98,6 @@ You can customize:
 ---
 
 **Note**: Remember to keep your extension updated and maintain the download links!
+=======
+# neopass-download
+>>>>>>> c4af72c715acc280c534770969341c48a69b14b0
